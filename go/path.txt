@@ -1,0 +1,2 @@
+C:\Go\bin
+%USERPROFILE%\go
